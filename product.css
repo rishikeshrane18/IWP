@@ -1,0 +1,33 @@
+*{
+    background-color: plum;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    opacity: 80%;
+    border-radius: 4px;
+    
+    
+}
+
+a{
+    
+        color: wheat;
+        padding: 20px;
+        text-decoration: none;
+        background-color: black;
+        font-size: x-large;
+    
+    
+}
+
+table{
+    margin-left: 250px;
+    margin-right: 00px;
+    text-align: center;
+    border-radius: 10px;
+    
+}

@@ -1,0 +1,36 @@
+.navbar{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    opacity: 80%;
+    border-radius: 4px;
+    
+}
+
+a{
+    color: wheat;
+    padding: 20px;
+    text-decoration: none;
+    background-color: black;
+    font-size: x-large;
+}
+
+*{
+    background-color:plum;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.ficare{
+    font-size: large;
+    color: whitesmoke;
+    
+}
+
+.li{
+    margin-left: 930px;
+    
+    font-size: large;
+
+    color: whitesmoke;
+}
